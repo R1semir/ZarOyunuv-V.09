@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\bin\Debug\ZarOyun.exe.config
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\bin\Debug\ZarOyun.exe
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\bin\Debug\ZarOyun.pdb
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\obj\Debug\ZarOyun.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\obj\Debug\ZarOyun.Form1.resources
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\obj\Debug\ZarOyun.Properties.Resources.resources
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\obj\Debug\ZarOyun.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\obj\Debug\ZarOyun.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\obj\Debug\ZarOyun.exe
+C:\Users\legen\source\repos\ZarOyun\ZarOyun\obj\Debug\ZarOyun.pdb
